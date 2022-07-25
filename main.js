@@ -68,12 +68,11 @@ let c = true;
 console.log(typeof c);
 
 let name=prompt(first);
-console.log(name==first);
+console.log(name);
 
 let surname=prompt(last);
-console.log(surname==last);
+console.log(surname);
 
-let age= 21;
 let old=prompt(age);
-console.log(old==age);
+console.log(old);
 
