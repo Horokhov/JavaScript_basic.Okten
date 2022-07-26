@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3206584f-a059-4569-9f90-cfe5829f1ff9" name="Changes" comment="JS_22">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3206584f-a059-4569-9f90-cfe5829f1ff9" name="Changes" comment="JS_2 update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,7 +63,7 @@
       <workItem from="1658690680697" duration="2994000" />
       <workItem from="1658786706962" duration="732000" />
       <workItem from="1658858978165" duration="178000" />
-      <workItem from="1658864353970" duration="5350000" />
+      <workItem from="1658864353970" duration="5472000" />
     </task>
     <task id="LOCAL-00001" summary="JS_1">
       <created>1658693635268</created>
@@ -102,7 +100,21 @@
       <option name="project" value="LOCAL" />
       <updated>1658871040806</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="JS_2 update">
+      <created>1658871650021</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1658871650021</updated>
+    </task>
+    <task id="LOCAL-00007" summary="JS_2 update">
+      <created>1658871668893</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1658871668893</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,6 +135,7 @@
     <MESSAGE value="JS_1" />
     <MESSAGE value="JS_2" />
     <MESSAGE value="JS_22" />
-    <option name="LAST_COMMIT_MESSAGE" value="JS_22" />
+    <MESSAGE value="JS_2 update" />
+    <option name="LAST_COMMIT_MESSAGE" value="JS_2 update" />
   </component>
 </project>
