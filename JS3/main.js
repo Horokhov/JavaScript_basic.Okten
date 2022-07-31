@@ -11,21 +11,21 @@ let y = +prompt('Enter your value!');
 
 // // - Дано змінну time яка рівна числу від 0 до 59. Потрібно написати код, який перевірить, до якої четверті години попадає число
 // // (в першу, другу, третю или четверту частину години).
-//
-// // let time = +prompt('Enter time between 0 and 59!');
-// //
-//     if (time>0 && time<=15) {
-//         console.log('First quarter');
-//     } else if (time>15 && time<=30) {
-//         console.log('Second quarter');
-//     }  else if (time>30 && time<=45) {
-//         console.log('Third quarter');
-//     } else if (time>45 && time<=59) {
-//         console.log('Fourth quarter');
-//     } else {
-//         console.log('Fatal error');
-//     }
-//
+
+let time = +prompt('Enter time between 0 and 59!');
+
+    if (time>0 && time<=15) {
+        console.log('First quarter');
+    } else if (time>15 && time<=30) {
+        console.log('Second quarter');
+    }  else if (time>30 && time<=45) {
+        console.log('Third quarter');
+    } else if (time>45 && time<=59) {
+        console.log('Fourth quarter');
+    } else {
+        console.log('Fatal error');
+    }
+
 // // - У змінній day дано якесь число від 1 до 31. Потрібно визначити, у яку половину(декаду) місяця потрапляє
 // // це число (у першу, другу чи третю).
 
